@@ -89,7 +89,9 @@ footer {
 }
 
 .footer_items {
+    cursor: pointer;
     height: 20px;
+    width: 20px;
 }
 
 .footer_items img{
