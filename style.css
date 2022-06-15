@@ -4,6 +4,13 @@ body {
     margin: auto;
 }
 
+a {
+    text-transform: none !important;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
 nav{
     max-width: 70%;
     margin: auto;
